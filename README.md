@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm Rodo, I like to learn a lot and transfer that learning to others, se we can do things in a better way and understanding why we do things.
 
+Here you will mostly see me working in Open Source Data Science and MLOps projects and classes. 
+
 In my pinned repos you can find some presentations, classes, and template projects. Although most of my real work is private
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodonunez/)
