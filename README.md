@@ -26,7 +26,7 @@ In my pinned repos you can find some presentations, classes, and template projec
 
 <div align="left">
 <div>
-<img src="Logo_principalEncoders.jpg" title="en_coders" **alt="en_coders" width="40" height="40"/>
+<img src="logos/Logo_principalEncoders.jpg" title="en_coders" **alt="en_coders" width="40" height="40"/>
 </div>
 </div>
 
@@ -55,7 +55,7 @@ This is far from all of the tools I use, but I use these tools every week, some 
 
 <div align="left">
     <div>
-        <img src="Logo_principalEncoders.jpg" title="en_coders" **alt="en_coders" width="40" height="40"/>
+        <img src="logos/Logo_principalEncoders.jpg" title="en_coders" **alt="en_coders" width="40" height="40"/>
         <img src="logos/mds.png" title="MDS" **alt="MDS" width="100" height="40"/>
         <img src="logos/tripleten.jpg" title="TripleTen" **alt="TripleTen" width="40" height="40"/>
         <img src="logos/entel.webp" title="Entel" **alt="Entel" width="50" height="40"/>
