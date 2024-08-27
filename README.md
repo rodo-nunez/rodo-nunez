@@ -22,9 +22,15 @@ Here you will mostly see me working in Open Source Data Science and MLOps projec
 In my pinned repos you can find some presentations, classes, and template projects. Although most of my real work is private
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodonunez/)
-- 📺 Podcast and content about Data Science: [YouTube](https://www.youtube.com/@en_coders/videos), [Twitch](https://www.twitch.tv/en_coders)
+- 📺 **En_coders** podcast and content about Data Science: [YouTube](https://www.youtube.com/@en_coders/videos), [Twitch](https://www.twitch.tv/en_coders)
 
-### 🔨 Main languageas and tools:
+<div align="left">
+<div>
+<img src="Logo_principalEncoders.jpg" title="en_coders" **alt="en_coders" width="40" height="40"/>
+</div>
+</div>
+
+## 🔨 Main languageas and tools:
 
 This is far from all of the tools I use, but I use these tools every week, some weeks it's even everyday. I use these tools to create analytics products and/or to give classes.
 
@@ -34,14 +40,30 @@ This is far from all of the tools I use, but I use these tools every week, some 
         <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
-        <img src="https://avatars.githubusercontent.com/u/67437475?s=200&v=4" title="Quarto" **alt="Quarto" width="40" height="40"/>
+        <img src="logos/quarto.png" title="Quarto" **alt="Quarto" width="40" height="40"/>
         <img src="https://occasionaldivergences.com/posts/positron-intro/figures/positron-logo.png" title="Positron" **alt="Positron" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
-        <img src="https://images.seeklogo.com/logo-png/52/1/obs-logo-png_seeklogo-529155.png" title="OBS" **alt="OBS" width="40" height="40"/>
-        <img src="https://forum.obsidian.md/uploads/default/original/3X/a/9/a9a34885821fff8941270ccd6e2ca923c83801b2.png" title="Obsidian" **alt="Obsidian" width="40" height="40"/>
-        <img src="https://avatars.githubusercontent.com/u/19806012?s=280&v=4" title="OpenBoard" **alt="OpenBoard" width="40" height="40"/>
+        <img src="logos/OBS.png" title="OBS" **alt="OBS" width="40" height="40"/>
+        <img src="logos/Obsidian.png" title="Obsidian" **alt="Obsidian" width="40" height="40"/>
+        <img src="logos/OpenBoard.png" title="OpenBoard" **alt="OpenBoard" width="40" height="40"/>
       </div>
 </div>
+
+---
+
+## Organizations
+
+<div align="left">
+    <div>
+        <img src="Logo_principalEncoders.jpg" title="en_coders" **alt="en_coders" width="40" height="40"/>
+        <img src="logos/mds.png" title="MDS" **alt="MDS" width="100" height="40"/>
+        <img src="logos/tripleten.jpg" title="TripleTen" **alt="TripleTen" width="40" height="40"/>
+        <img src="logos/entel.webp" title="Entel" **alt="Entel" width="50" height="40"/>
+      </div>
+</div>
+
+
+
 
 ---
 
